@@ -17,15 +17,10 @@ support is still experimental.
 
 # Installation
 
-1. Install libolm
+1. Install libolm 
 
-    - Ubuntu
-        ```
-        sudo apt-get install libolm-dev
-        ```
-
-    - Debian (see https://git.matrix.org/git/olm)
-
+    - Ubuntu/Debian (see https://git.matrix.org/git/olm) the packge in the Ubuntu repo is too old. 
+ 
     - Archlinux based distribution (see https://aur.archlinux.org/packages/libolm/)
       use your favorite pacman frontend with AUR support (yaourt, yay, pikaur, …)
 
